@@ -15,7 +15,8 @@ public class GithubApplication {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello Ladies and Gentlemen");
+        System.out.println("Let me show a magic trick");
     }
     
 }
